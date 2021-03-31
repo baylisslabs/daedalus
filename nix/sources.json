@@ -24,15 +24,15 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "cardano-wallet": {
-        "branch": "master",
+        "branch": "rvl/adp-800/hash-sign-metadata",
         "description": "Official Wallet Backend & API for Cardano decentralized",
         "homepage": null,
         "owner": "input-output-hk",
         "repo": "cardano-wallet",
-        "rev": "1fbb9f46b483e9fef1d166b62e074778605cf794",
-        "sha256": "0bcnddpi14xg6csl4hf44x22d2gb86k8hibzqk52p077d1y2hbqp",
+        "rev": "10951883be35222e8458b748717ef0194978721a",
+        "sha256": "0fhq6riwjbjjbngwc1plgsczcxma5nl1pik6cy8xcwdx4by4xjvl",
         "type": "tarball",
-        "url": "https://github.com/input-output-hk/cardano-wallet/archive/1fbb9f46b483e9fef1d166b62e074778605cf794.tar.gz",
+        "url": "https://github.com/input-output-hk/cardano-wallet/archive/10951883be35222e8458b748717ef0194978721a.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore": {
